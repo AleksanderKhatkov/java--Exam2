@@ -1,0 +1,12 @@
+MilkProduct,Йогурт,1.25,15,5
+MilkProduct,Кефир,1.9,12,3
+Conserve,Зеленый горошек,2.12,120,GLASS
+Conserve,Зеленый горошек,2.12,120,GLASS
+Conserve,Зеленый горошек,2.12,120,GLASS
+Conserve,Сельдь,3.12,360,METAL
+Conserve,Огурцы,3.15,360,GLASS
+Conserve,Джем,3.48,180,GLASS
+MilkProduct,Творог,5.35,5,9
+MilkProduct,Сыр,12.5,21,45
+MilkProduct,Сыр,12.5,21,45
+MilkProduct,Сыр,12.5,21,45
